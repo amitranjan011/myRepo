@@ -22,7 +22,7 @@ public class BubbleSort {
 				}
 			}
 		}
-		
+		System.out.println("testing git");
 		//Arrays.stream(arr).forEach(System.out::println);
 		
 		String [] stArr = new String []{"a", "b", "c", "d"};
